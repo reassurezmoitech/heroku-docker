@@ -2,7 +2,7 @@
 
 This docker image makes using Heroku in CI easier.
 
-The `purge-cache.js` script purges the build cache.
+The `purge-cache.js` script purges the build cache once a week.
 
 ## Usage
 
