@@ -13,3 +13,9 @@ docker run --rm -ti \
     -e HEROKU_APP=<heroku-app-name> \
     reassurezmoitech/heroku purge-cache.js
 ```
+
+## License
+
+This code is MIT licensed.
+
+This image is maintained by [Réassurez-moi](http://reassurez-moi.fr/).
